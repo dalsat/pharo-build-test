@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfTravisBuildTest",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfTravisBuildTest",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

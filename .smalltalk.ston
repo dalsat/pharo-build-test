@@ -1,0 +1,9 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'TravisBuildTest',
+      #directory : 'mc',
+      #platforms : [ #pharo ]
+    }
+  ]
+}

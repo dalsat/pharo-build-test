@@ -1,0 +1,14 @@
+{
+	"category" : "Travis-Build-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TBHello",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
